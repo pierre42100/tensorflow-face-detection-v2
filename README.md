@@ -1,5 +1,7 @@
 @pierre42100 : I used `tf_upgrade_v2` to get this project work on TensorFlow 2.0
 
+Original repository is located at https://github.com/yeephycho/tensorflow-face-detection/
+
 # Tensorflow Face Detector
 A mobilenet SSD(single shot multibox detector) based face detector with pretrained model provided, powered by tensorflow [object detection api](https://github.com/tensorflow/models/tree/master/research/object_detection), trained by [WIDERFACE dataset](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/).
 
